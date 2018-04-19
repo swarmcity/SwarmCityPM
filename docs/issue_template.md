@@ -6,4 +6,6 @@
 
 # Steps to reproduce the problem
 
+# screenshot/screencap
+
 # Operating system / hardware
